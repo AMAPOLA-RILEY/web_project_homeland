@@ -27,8 +27,6 @@ Triple Ten Art Gallery/
   │   ├── page.css
   │   ├── header.css
   │   ├── intro.css
-  │   ├── photo-grid.css
-  │   ├── places.css
   │   └── footer.css
   ├── vendor/                      <- normalize.css
   │   ├── fonts.css
