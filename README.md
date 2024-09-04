@@ -7,7 +7,7 @@ Triple Ten Art Gallery es un proyecto de una galería de arte en línea que mues
 ## Tecnologías Utilizadas
 
 - **Figma**: Diseño de la página web responsivo.
-- **HTML5**: Estructura del contenido de la página.
+- **HTML**: Estructura del contenido de la página.
 - **CSS**: Estilos y diseño de la página. Utiliza:
   - **Normalize.css**: Para normalizar los estilos en diferentes navegadores.
   - **@font-face**: Para la carga de fuentes personalizadas.
