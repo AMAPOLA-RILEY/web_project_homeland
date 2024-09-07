@@ -37,4 +37,11 @@ Triple Ten Art Gallery/
   ├── .editorconfig                <- configuración de editor
   └── .gitignore                   <- archivos a ignorar en git
 
+url:
+https://github.com/AMAPOLA-RILEY/web_project_homeland.git
+
+Autor
+
+© 2024 Amapola Riley
+
 ```
