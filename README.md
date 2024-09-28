@@ -1,5 +1,7 @@
 # Triple Ten Art Gallery
 
+![web_project_homeland](/images/sprint5.png)
+
 ## Descripción
 
 Triple Ten Art Gallery es un proyecto de una galería de arte en línea que muestra obras de artistas de diferentes rincones del mundo. La página incluye un encabezado, una sección introductoria y un pie de página, con un diseño responsivo para adaptarse a diferentes tamaños de pantalla: 320px, 768px y 1280px.
@@ -7,7 +9,7 @@ Triple Ten Art Gallery es un proyecto de una galería de arte en línea que mues
 ## Tecnologías Utilizadas
 
 - **Figma**: Diseño de la página web responsivo.
-- **HTML**: Estructura del contenido de la página.
+- **HTML5**: Estructura del contenido de la página.
 - **CSS**: Estilos y diseño de la página. Utiliza:
   - **Normalize.css**: Para normalizar los estilos en diferentes navegadores.
   - **@font-face**: Para la carga de fuentes personalizadas.
@@ -27,6 +29,8 @@ Triple Ten Art Gallery/
   │   ├── page.css
   │   ├── header.css
   │   ├── intro.css
+  │   ├── photo-grid.css
+  │   ├── places.css
   │   └── footer.css
   ├── vendor/                      <- normalize.css
   │   ├── fonts.css
@@ -36,12 +40,5 @@ Triple Ten Art Gallery/
   ├── README.md                    <- este archivo
   ├── .editorconfig                <- configuración de editor
   └── .gitignore                   <- archivos a ignorar en git
-
-url:
-https://amapola-riley.github.io/web_project_homeland/
-
-Autor
-
-© 2024 Amapola Riley
 
 ```
