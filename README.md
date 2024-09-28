@@ -1,5 +1,7 @@
 # Triple Ten Art Gallery
 
+![web_project_homeland](/images/sprint5.png)
+
 ## Descripción
 
 Triple Ten Art Gallery es un proyecto de una galería de arte en línea que muestra obras de artistas de diferentes rincones del mundo. La página incluye un encabezado, una sección introductoria y un pie de página, con un diseño responsivo para adaptarse a diferentes tamaños de pantalla: 320px, 768px y 1280px.
